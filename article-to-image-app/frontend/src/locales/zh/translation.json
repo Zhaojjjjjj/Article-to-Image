@@ -1,0 +1,76 @@
+{
+	"app": {
+		"title": "文章转图片 AI",
+		"subtitle": "利用我们的 AI Agent 将您的文章、链接或文档转化为令人惊叹的视觉作品。",
+		"nav": {
+			"docs": "文档",
+			"history": "历史记录",
+			"account": "账户"
+		}
+	},
+	"home": {
+		"tabs": {
+			"text": "文本",
+			"url": "链接",
+			"file": "文件"
+		},
+		"placeholders": {
+			"text": "在此粘贴您的文章文本...",
+			"url": "https://example.com/article",
+			"file": "拖入 PDF, Docx 或 TXT 文件"
+		},
+		"buttons": {
+			"next": "下一步"
+		}
+	},
+	"settings": {
+		"title": "选择视觉风格",
+		"styles": {
+			"cinematic": "电影质感",
+			"cinematic_desc": "电影般的高级质感与戏剧性光影",
+			"cyberpunk": "赛博朋克",
+			"cyberpunk_desc": "霓虹灯光，高科技，未来主义",
+			"watercolor": "水彩画",
+			"watercolor_desc": "柔和、艺术感强的绘画纹理",
+			"minimalist": "极简主义",
+			"minimalist_desc": "干净、简洁，突出核心元素",
+			"anime": "日系动漫",
+			"anime_desc": "经典的日本动画风格"
+		},
+		"buttons": {
+			"generate": "开始生成"
+		}
+	},
+	"animation": {
+		"steps": {
+			"input": "输入处理",
+			"semantic": "语义分析",
+			"visual": "视觉规划",
+			"prompt": "提示词生成",
+			"image": "图像生成",
+			"evaluate": "CLIP 评估"
+		},
+		"status": {
+			"completed": "已完成"
+		}
+	},
+	"result": {
+		"title": "生成完成",
+		"style": "风格",
+		"buttons": {
+			"new": "新建项目",
+			"download": "下载全部"
+		},
+		"rank": "排名",
+		"score": "评分",
+		"prompt": "提示词",
+		"variations": "其他变体",
+		"strategy": "视觉策略",
+		"strategy_items": {
+			"style": "风格",
+			"composition": "构图",
+			"lighting": "光影",
+			"palette": "配色"
+		}
+	}
+}
